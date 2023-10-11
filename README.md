@@ -11,7 +11,6 @@
     <br/>
     <br/>
     <a href="https://github.com/PixelDreams-Studios/luiscar/issues">Report Bug</a>
-    .
   </p>
 </p>
 
