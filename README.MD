@@ -43,9 +43,6 @@ This project would not have been possible without these programmes and tools:
 
 The best way to contribute is reporting bugs.
 
-### Creating A Pull Request
-
-
 
 ## License
 
